@@ -1,0 +1,82 @@
+.divppl{
+
+    display: flex;
+    justify-content: center;
+}
+.container{
+     
+    margin: 8px;
+    text-align: center;
+    border: 1px solid black;
+    width: 60%;
+    padding: 14px;
+    box-shadow: 4px 5px;
+}
+
+
+.secciones a{
+
+    color: #067CC8;
+    text-decoration:none;
+   
+}
+
+.secciones a:hover{
+
+    color:#30CCF9;
+    text-decoration:none;
+}
+
+.titulo{
+
+    color:#000A38;
+    font-family: sans-serif;
+}
+
+.tinfractores{
+
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.tinfractores th{
+    color: white;
+    
+}
+
+.tinfractores td{
+
+    border: 1px solid black;
+}
+
+
+.teaches{
+    background-color:#020B30;
+}
+
+.tinfractores td{
+
+    padding: 12px;
+}
+
+.formula{
+    border:2px solid black;
+    width: 60%;
+    margin:0 auto;
+    padding: 8px;
+    background-color: #E7EDF0;
+    color: black;
+}
+
+.msgerror{
+
+    color:red;
+}
+
+
+.login{
+
+    padding: 1px;
+    
+}
+

@@ -1,0 +1,7 @@
+4234234-H DASDASD 2022-11-02 2022-11-11 hotel
+44444 Calle_La_Almudena 2022-11-02 2022-11-17 hotel
+4234234-P Calle_de_Jarlll 2022-11-09 2022-11-16 residente
+77777-U Calle_Ronda_5 2022-11-09 2022-11-16 residente
+2222222-L Calle_San_Juan_5 2022-12-05 2022-12-08 residente
+99999-T Calle_Amapolas_7 2019-12-25 2020-03-02 hotel
+22334-P fsdsdfsdf 2022-11-18 2022-12-22 residente

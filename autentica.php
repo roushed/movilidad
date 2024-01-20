@@ -9,7 +9,7 @@
                 $_SESSION['usuario']=$_POST['usuario'];
                 $_SESSION['autentificado'] = true;
                 header("Location: infractores.php");
-  
+
 
             }else{
 
